@@ -1,0 +1,6 @@
+@ORCPO_HostAddress = http://localhost:5233
+
+GET {{ORCPO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
